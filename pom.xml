@@ -573,21 +573,8 @@
 		</repository>
 	</repositories>
 	<properties>
-		<commons.version>2.0.2</commons.version>
-		<k8shelper.version>1.0.25</k8shelper.version>
-		<slf4j.version>1.7.5</slf4j.version>
-		<logback.version>1.0.11</logback.version>
-		<antlr.version>4.7.2</antlr.version>
-		<jetty.version>9.4.35.v20201120</jetty.version>
-		<wicket.version>7.17.0</wicket.version>
-		<jersey.version>2.26</jersey.version>
-		<hibernate.version>5.4.9.Final</hibernate.version>
-		<wicketbootstrap.version>0.10.18</wicketbootstrap.version>
-		<lucene.version>7.1.0</lucene.version>
-		<shiro.version>1.4.2</shiro.version>
-		<jgit.version>5.7.0.202003110725-r</jgit.version>
-		<flexmark.version>0.18.3</flexmark.version>
-		<groovy.version>3.0.7</groovy.version>
-		<servlet.version>3.1.0</servlet.version>
+  		<sonar.projectKey>serveronedev</sonar.projectKey>
+  		<sonar.organization>onedev</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 </project>
